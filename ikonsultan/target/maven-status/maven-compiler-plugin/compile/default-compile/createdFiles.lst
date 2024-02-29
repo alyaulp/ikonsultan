@@ -1,0 +1,6 @@
+org/example/pageObject/LoginPage.class
+org/example/pageObject/CheckoutPage.class
+org/example/pageObject/CompletePage.class
+org/example/pageObject/LandingPage.class
+org/example/pageObject/OverviewPage.class
+org/example/pageObject/CartPage.class
